@@ -1,0 +1,9 @@
+[INFO ] 2023-11-06 15:32:58.689 [main] TestLogger - implicitly waiting for 10 seconds
+[INFO ] 2023-11-06 15:32:58.689 [main] TestLogger - implicitly waiting for 10 seconds
+[INFO ] 2023-11-06 15:33:08.152 [main] TestLogger - implicitly waiting for 10 seconds
+[INFO ] 2023-11-06 15:33:36.370 [main] TestLogger - Logged into google
+[INFO ] 2023-11-06 15:33:36.590 [main] TestLogger - Logged into google
+[INFO ] 2023-11-06 15:33:57.720 [main] TestLogger - quitting the driver
+[INFO ] 2023-11-06 15:33:57.721 [main] TestLogger - quitting the driver
+[INFO ] 2023-11-06 15:34:09.155 [main] TestLogger - Logged into google
+[INFO ] 2023-11-06 15:34:19.002 [main] TestLogger - quitting the driver
